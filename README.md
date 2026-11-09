@@ -1,6 +1,6 @@
 # Pamillionaire GRC Lab
 
-#### Cybersecurity home lab built by Paolo \& Tanis.
+#### Cybersecurity home lab built by Paolo.
 
 
 
