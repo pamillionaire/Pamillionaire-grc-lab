@@ -1,0 +1,21 @@
+# VM files
+*.iso
+*.vdi
+*.vmdk
+*.ova
+*.vhd
+*.vhdx
+
+# Log exports
+*.evtx
+
+# Secrets
+*.env
+secrets*
+*password*
+*.key
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
